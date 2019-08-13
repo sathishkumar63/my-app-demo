@@ -1,6 +1,19 @@
-# Todo
+# Angular 8 Todos App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+
+# Demo Link
+[Angular 8 Todo](https://angular-8-todo.firebaseapp.com/)
+
+## Functionality
+
+1.Add todos
+2.Edit todos by double-clicking
+3.Delete todos
+4.Check/Uncheck todos
+5.Filters for complete/active todos
+6.Counts how many todos are left
+7.Todos are saved to LocalStorage
 
 ## Development server
 
