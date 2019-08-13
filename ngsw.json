@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1565703925175,
+  "appData": {
+    "name": "Angular 8 Todos",
+    "description": "Todos App in Angular 8",
+    "version": "1.1.0",
+    "changelog": "Added better resource caching for Todo App"
+  },
+  "index": "https://sathishkumar63.github.io/my-app-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sathishkumar63.github.io/my-app-demo/3-es5.f259da5968c9a4cbe11e.js",
+        "https://sathishkumar63.github.io/my-app-demo/4-es2015.a26e72697b080f06c975.js",
+        "https://sathishkumar63.github.io/my-app-demo/favicon.ico",
+        "https://sathishkumar63.github.io/my-app-demo/index.html",
+        "https://sathishkumar63.github.io/my-app-demo/main-es2015.e0b6fa352b0c2e7a8ca1.js",
+        "https://sathishkumar63.github.io/my-app-demo/main-es5.73222acebcce4e482b55.js",
+        "https://sathishkumar63.github.io/my-app-demo/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "https://sathishkumar63.github.io/my-app-demo/polyfills-es5.4e06eb653a3c8a2d581f.js",
+        "https://sathishkumar63.github.io/my-app-demo/runtime-es2015.5de2af14395ef648e6b5.js",
+        "https://sathishkumar63.github.io/my-app-demo/runtime-es5.b0cd0c76c368fbf1877f.js",
+        "https://sathishkumar63.github.io/my-app-demo/scripts.dd94b0f80ca96d0b4cf0.js",
+        "https://sathishkumar63.github.io/my-app-demo/styles.4f8ff72343cc9c7749ac.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sathishkumar63.github.io/my-app-demo/assets/angular.svg",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-128x128.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-144x144.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-152x152.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-192x192.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-384x384.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-512x512.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-72x72.png",
+        "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sathishkumar63.github.io/my-app-demo/3-es5.f259da5968c9a4cbe11e.js": "72a87dc73f37571360d91b87d071429f865d8166",
+    "https://sathishkumar63.github.io/my-app-demo/4-es2015.a26e72697b080f06c975.js": "93a71dd646fd2965b9bef0e6193d08fbd57e5783",
+    "https://sathishkumar63.github.io/my-app-demo/assets/angular.svg": "0b3394341548880427c38ed78beb990863a4e8cb",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://sathishkumar63.github.io/my-app-demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://sathishkumar63.github.io/my-app-demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://sathishkumar63.github.io/my-app-demo/index.html": "a85785fce82fd7be4352e0fce67cbaaa1798f27a",
+    "https://sathishkumar63.github.io/my-app-demo/main-es2015.e0b6fa352b0c2e7a8ca1.js": "9b5389ce94f51c576bbdae42ebb58351d41d85c6",
+    "https://sathishkumar63.github.io/my-app-demo/main-es5.73222acebcce4e482b55.js": "00919e6288b990eb58042b0ca2862bbfe35f6a04",
+    "https://sathishkumar63.github.io/my-app-demo/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "https://sathishkumar63.github.io/my-app-demo/polyfills-es5.4e06eb653a3c8a2d581f.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
+    "https://sathishkumar63.github.io/my-app-demo/runtime-es2015.5de2af14395ef648e6b5.js": "6b105711044a50a9cf72aff3b07fb73b07357aee",
+    "https://sathishkumar63.github.io/my-app-demo/runtime-es5.b0cd0c76c368fbf1877f.js": "aa12c52b7a636ade261d6a117436b89c6c6fbba3",
+    "https://sathishkumar63.github.io/my-app-demo/scripts.dd94b0f80ca96d0b4cf0.js": "77b6f8ab84b5543a6f173f8886528ffbe2bc9b58",
+    "https://sathishkumar63.github.io/my-app-demo/styles.4f8ff72343cc9c7749ac.css": "82f954535048e09ac42fdce6afd13a83e71d2f06"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
